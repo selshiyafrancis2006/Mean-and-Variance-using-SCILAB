@@ -100,7 +100,7 @@ calculation:
 
 <img width="578" height="925" alt="image" src="https://github.com/user-attachments/assets/06fb0039-7313-4141-8431-172da421ab16" />
 <img width="1029" height="915" alt="image" src="https://github.com/user-attachments/assets/9776b82a-3de2-4e6b-aff5-03a5d333f3f9" />
-<img width="836" height="876" alt="image" src="https://github.com/user-attachments/assets/d74d3f08-6a5f-4fa2-a649-082d490b4657" />
+<img width="771" height="894" alt="image" src="https://github.com/user-attachments/assets/b361e06e-7a33-4a33-b316-77a5462edf65" />
 
 RESULT:
 
